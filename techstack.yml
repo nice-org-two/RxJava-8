@@ -1,7 +1,7 @@
 repo_name: nice-org-two/RxJava-8
-report_id: 7a1d80f7d5c358c083c3dafe6f32aac0
+report_id: 2e978d46f8e492e371761d0b9baec839
 repo_type: Public
-timestamp: '2023-11-08T20:19:43+00:00'
+timestamp: '2023-11-10T16:30:42+00:00'
 requested_by: akarnokd
 provider: github
 branch: 3.x
@@ -45,6 +45,8 @@ tools:
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
   detection_source: codecov.yml
+  last_updated_by: David Karnok
+  last_updated_on: 2017-02-03 12:40:17.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -63,6 +65,8 @@ tools:
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source: ".github/workflows/gradle_snapshot.yml"
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-10-25 06:41:16.000000000 Z
 - name: Gradle
   description: A powerful build system for the JVM
   website_url: https://www.gradle.org/
@@ -73,6 +77,8 @@ tools:
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
   detection_source: gradlew.bat
+  last_updated_by: benjamintboyle
+  last_updated_on: 2021-05-07 13:10:41.000000000 Z
 - name: Istio
   description: Open platform to connect, manage, and secure microservices, by Google,
     IBM, and Lyft
@@ -84,6 +90,8 @@ tools:
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
   detection_source: ".gitpod.yml"
+  last_updated_by: Siddhant Khare
+  last_updated_on: 2022-06-06 09:00:41.000000000 Z
 - name: Mockito
   description: Tasty mocking framework for unit tests in Java
   website_url: https://site.mockito.org/
@@ -94,6 +102,8 @@ tools:
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
   detection_source: build.gradle
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-10-24 09:41:07.000000000 Z
 - name: TestNG
   description: A testing framework inspired from JUnit and NUnit
   website_url: http://testng.org/doc/
@@ -104,3 +114,5 @@ tools:
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/8900/no-img-open-source.png
   detection_source: build.gradle
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-01-07 08:35:42.000000000 Z
